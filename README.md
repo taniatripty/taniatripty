@@ -1,7 +1,9 @@
+
+![From Frontend Polish to Backend Power](https://media.licdn.com/dms/image/v2/D4D16AQGzuvXJiHVf3w/profile-displaybackgroundimage-shrink_350_1400/B4DZiGqRUTHsAY-/0/1754605886203?e=1757548800&v=beta&t=g-PbNp3e6CmqKpc7cWC5uvJ3vKV1mrt6sASSUS1OniI)
 ### Hi there 👋, I’m Tripty  
 #### From Frontend Polish to Backend Power
 
-![From Frontend Polish to Backend Power](https://media.licdn.com/dms/image/v2/D4D16AQGzuvXJiHVf3w/profile-displaybackgroundimage-shrink_350_1400/B4DZiGqRUTHsAY-/0/1754605886203?e=1757548800&v=beta&t=g-PbNp3e6CmqKpc7cWC5uvJ3vKV1mrt6sASSUS1OniI)
+
 
 💻 **Frontend Developer | React Enthusiast | Full-Stack Explorer**
 
@@ -40,10 +42,21 @@ Whether it's building dynamic interfaces, integrating APIs, optimizing performan
 
 ### 📫 Connect with me:
 
-[![Gmail](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:taniatripty381@gmail.com)  
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/taniatripty)  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tania-tripty/)  
-[![Facebook](https://img.shields.io/badge/-Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/tania.tripty.5)  
+<div style="display: flex; gap: 15px; align-items: center;">
+  <a href="mailto:taniatripty381@gmail.com" title="Email" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" height="40"/>
+  </a>
+  <a href="https://github.com/taniatripty" title="GitHub" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" height="40"/>
+  </a>
+  <a href="https://www.linkedin.com/in/tania-tripty/" title="LinkedIn" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="40"/>
+  </a>
+  <a href="https://www.facebook.com/tania.tripty.5" title="Facebook" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/-Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" height="40"/>
+  </a>
+</div>
+
 
 ---
 
