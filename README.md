@@ -17,74 +17,19 @@ Whether it's building dynamic interfaces, integrating APIs, optimizing performan
 
 ### 🔧 Tech I Work With:
 
-<div style="display: flex; flex-wrap: wrap; gap: 25px; align-items: center;">
+**Frontend:**  
+![React](https://cdn.jsdelivr.net/npm/simple-icons@v12/icons/react.svg) React &nbsp;&nbsp;
+![Next.js](https://cdn.jsdelivr.net/npm/simple-icons@v12/icons/nextdotjs.svg) Next.js &nbsp;&nbsp;
+![Tailwind CSS](https://cdn.jsdelivr.net/npm/simple-icons@v12/icons/tailwindcss.svg) Tailwind CSS
 
-  <!-- Frontend -->
-  <div style="display: flex; flex-direction: column; gap: 12px; min-width: 150px;">
-    <strong>Frontend</strong>
-    <div style="display: flex; gap: 15px; flex-wrap: wrap;">
+**Backend:**  
+![Node.js](https://cdn.jsdelivr.net/npm/simple-icons@v12/icons/node-dot-js.svg) Node.js &nbsp;&nbsp;
+![Express](https://cdn.jsdelivr.net/npm/simple-icons@v12/icons/express.svg) Express &nbsp;&nbsp;
+![MongoDB](https://cdn.jsdelivr.net/npm/simple-icons@v12/icons/mongodb.svg) MongoDB
 
-      <div style="display: flex; flex-direction: column; align-items: center; cursor: default; transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.15)';" onmouseout="this.style.transform='scale(1)';">
-        <img src="https://cdn.jsdelivr.net/npm/simple-icons@v12/icons/react.svg" alt="React" height="40" style="filter: invert(33%) sepia(89%) saturate(650%) hue-rotate(160deg) brightness(90%) contrast(88%);"/>
-        <small>React</small>
-      </div>
-
-      <div style="display: flex; flex-direction: column; align-items: center; cursor: default; transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.15)';" onmouseout="this.style.transform='scale(1)';">
-        <img src="https://cdn.jsdelivr.net/npm/simple-icons@v12/icons/nextdotjs.svg" alt="Next.js" height="40" style="filter: invert(100%) sepia(0%) saturate(7500%) hue-rotate(157deg) brightness(104%) contrast(101%);"/>
-        <small>Next.js</small>
-      </div>
-
-      <div style="display: flex; flex-direction: column; align-items: center; cursor: default; transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.15)';" onmouseout="this.style.transform='scale(1)';">
-        <img src="https://cdn.jsdelivr.net/npm/simple-icons@v12/icons/tailwindcss.svg" alt="Tailwind CSS" height="40" style="filter: invert(41%) sepia(86%) saturate(489%) hue-rotate(146deg) brightness(92%) contrast(84%);"/>
-        <small>Tailwind CSS</small>
-      </div>
-
-    </div>
-  </div>
-
-  <!-- Backend -->
-  <div style="display: flex; flex-direction: column; gap: 12px; min-width: 150px;">
-    <strong>Backend</strong>
-    <div style="display: flex; gap: 15px; flex-wrap: wrap;">
-
-      <div style="display: flex; flex-direction: column; align-items: center; cursor: default; transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.15)';" onmouseout="this.style.transform='scale(1)';">
-        <img src="https://cdn.jsdelivr.net/npm/simple-icons@v12/icons/node-dot-js.svg" alt="Node.js" height="40" style="filter: invert(55%) sepia(69%) saturate(2477%) hue-rotate(88deg) brightness(89%) contrast(86%);"/>
-        <small>Node.js</small>
-      </div>
-
-      <div style="display: flex; flex-direction: column; align-items: center; cursor: default; transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.15)';" onmouseout="this.style.transform='scale(1)';">
-        <img src="https://cdn.jsdelivr.net/npm/simple-icons@v12/icons/express.svg" alt="Express" height="40" style="filter: invert(100%) sepia(0%) saturate(7500%) hue-rotate(157deg) brightness(104%) contrast(101%);"/>
-        <small>Express</small>
-      </div>
-
-      <div style="display: flex; flex-direction: column; align-items: center; cursor: default; transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.15)';" onmouseout="this.style.transform='scale(1)';">
-        <img src="https://cdn.jsdelivr.net/npm/simple-icons@v12/icons/mongodb.svg" alt="MongoDB" height="40" style="filter: invert(51%) sepia(90%) saturate(2133%) hue-rotate(71deg) brightness(92%) contrast(101%);"/>
-        <small>MongoDB</small>
-      </div>
-
-    </div>
-  </div>
-
-  <!-- Tools & Others -->
-  <div style="display: flex; flex-direction: column; gap: 12px; min-width: 150px;">
-    <strong>Tools & Others</strong>
-    <div style="display: flex; gap: 15px; flex-wrap: wrap;">
-
-      <div style="display: flex; flex-direction: column; align-items: center; cursor: default; transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.15)';" onmouseout="this.style.transform='scale(1)';">
-        <img src="https://cdn.jsdelivr.net/npm/simple-icons@v12/icons/git.svg" alt="Git" height="40" style="filter: invert(12%) sepia(78%) saturate(6096%) hue-rotate(351deg) brightness(85%) contrast(102%);"/>
-        <small>Git</small>
-      </div>
-
-      <div style="display: flex; flex-direction: column; align-items: center; cursor: default; transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.15)';" onmouseout="this.style.transform='scale(1)';">
-        <!-- REST API icon replaced by Postman icon as simple-icons does not have rest -->
-        <img src="https://cdn.jsdelivr.net/npm/simple-icons@v12/icons/postman.svg" alt="Postman (REST APIs)" height="40" style="filter: invert(48%) sepia(85%) saturate(2973%) hue-rotate(3deg) brightness(96%) contrast(101%);"/>
-        <small>REST APIs (Postman)</small>
-      </div>
-
-    </div>
-  </div>
-
-</div>
+**Tools & Others:**  
+![Git](https://cdn.jsdelivr.net/npm/simple-icons@v12/icons/git.svg) Git &nbsp;&nbsp;
+![Postman](https://cdn.jsdelivr.net/npm/simple-icons@v12/icons/postman.svg) REST APIs (Postman)
 
 
 ---
