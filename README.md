@@ -17,19 +17,21 @@ Whether it's building dynamic interfaces, integrating APIs, optimizing performan
 
 ### 🔧 Tech I Work With:
 
-**Frontend:**  
-![React](https://cdn.jsdelivr.net/npm/simple-icons@v12/icons/react.svg) React &nbsp;&nbsp;
-![Next.js](https://cdn.jsdelivr.net/npm/simple-icons@v12/icons/nextdotjs.svg) Next.js &nbsp;&nbsp;
-![Tailwind CSS](https://cdn.jsdelivr.net/npm/simple-icons@v12/icons/tailwindcss.svg) Tailwind CSS
+<p align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
 
-**Backend:**  
-![Node.js](https://cdn.jsdelivr.net/npm/simple-icons@v12/icons/node-dot-js.svg) Node.js &nbsp;&nbsp;
-![Express](https://cdn.jsdelivr.net/npm/simple-icons@v12/icons/express.svg) Express &nbsp;&nbsp;
-![MongoDB](https://cdn.jsdelivr.net/npm/simple-icons@v12/icons/mongodb.svg) MongoDB
+  <img alt="React" src="https://cdn.jsdelivr.net/npm/simple-icons@v12/icons/react.svg" height="40" />
+  <img alt="Next.js" src="https://cdn.jsdelivr.net/npm/simple-icons@v12/icons/nextdotjs.svg" height="40" />
+  <img alt="Tailwind CSS" src="https://cdn.jsdelivr.net/npm/simple-icons@v12/icons/tailwindcss.svg" height="40" />
+  <img alt="Node.js" src="https://cdn.jsdelivr.net/npm/simple-icons@v12/icons/node-dot-js.svg" height="40" />
+  <img alt="Express" src="https://cdn.jsdelivr.net/npm/simple-icons@v12/icons/express.svg" height="40" />
+  <img alt="MongoDB" src="https://cdn.jsdelivr.net/npm/simple-icons@v12/icons/mongodb.svg" height="40" />
+  <img alt="Git" src="https://cdn.jsdelivr.net/npm/simple-icons@v12/icons/git.svg" height="40" />
+  <img alt="JavaScript" src="https://cdn.jsdelivr.net/npm/simple-icons@v12/icons/javascript.svg" height="40" />
+  <img alt="TypeScript" src="https://cdn.jsdelivr.net/npm/simple-icons@v12/icons/typescript.svg" height="40" />
+  <img alt="Postman" src="https://cdn.jsdelivr.net/npm/simple-icons@v12/icons/postman.svg" height="40" />
 
-**Tools & Others:**  
-![Git](https://cdn.jsdelivr.net/npm/simple-icons@v12/icons/git.svg) Git &nbsp;&nbsp;
-![Postman](https://cdn.jsdelivr.net/npm/simple-icons@v12/icons/postman.svg) REST APIs (Postman)
+</p>
+
 
 
 ---
