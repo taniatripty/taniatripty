@@ -15,22 +15,8 @@ Whether it's building dynamic interfaces, integrating APIs, optimizing performan
 
 ---
 
-### 🔧 Tech I Work With:
-
-<p align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
-
-  <img alt="React" src="https://cdn.jsdelivr.net/npm/simple-icons@v12/icons/react.svg" height="40" />
-  <img alt="Next.js" src="https://cdn.jsdelivr.net/npm/simple-icons@v12/icons/nextdotjs.svg" height="40" />
-  <img alt="Tailwind CSS" src="https://cdn.jsdelivr.net/npm/simple-icons@v12/icons/tailwindcss.svg" height="40" />
-  <img alt="Node.js" src="https://cdn.jsdelivr.net/npm/simple-icons@v12/icons/node-dot-js.svg" height="40" />
-  <img alt="Express" src="https://cdn.jsdelivr.net/npm/simple-icons@v12/icons/express.svg" height="40" />
-  <img alt="MongoDB" src="https://cdn.jsdelivr.net/npm/simple-icons@v12/icons/mongodb.svg" height="40" />
-  <img alt="Git" src="https://cdn.jsdelivr.net/npm/simple-icons@v12/icons/git.svg" height="40" />
-  <img alt="JavaScript" src="https://cdn.jsdelivr.net/npm/simple-icons@v12/icons/javascript.svg" height="40" />
-  <img alt="TypeScript" src="https://cdn.jsdelivr.net/npm/simple-icons@v12/icons/typescript.svg" height="40" />
-  <img alt="Postman" src="https://cdn.jsdelivr.net/npm/simple-icons@v12/icons/postman.svg" height="40" />
-
-</p>
+🚀 Tech I Work With
+<p align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px;"> <!-- Frontend --> <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" height="30" /> <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" height="30" /> <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" height="30" /> <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" height="30" /> <img alt="React" src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" height="30" /> <img alt="Next.js" src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" height="30" /> <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white" height="30" /> <!-- Backend --> <img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" height="30" /> <img alt="Express" src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" height="30" /> <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" height="30" /> <!-- Languages --> <img alt="C" src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" height="30" /> <img alt="C++" src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" height="30" /> <!-- Tools --> <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" height="30" /> <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" height="30" /></p>
 
 
 
