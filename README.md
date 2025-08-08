@@ -1,16 +1,61 @@
-## Hi there 👋
+### Hi there 👋, I’m Tripty  
+#### From Frontend Polish to Backend Power
 
+![From Frontend Polish to Backend Power](https://media.licdn.com/dms/image/v2/D4D16AQGzuvXJiHVf3w/profile-displaybackgroundimage-shrink_350_1400/B4DZiGqRUTHsAY-/0/1754605886203?e=1757548800&v=beta&t=g-PbNp3e6CmqKpc7cWC5uvJ3vKV1mrt6sASSUS1OniI)
 
-**taniatripty/taniatripty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **Frontend Developer | React Enthusiast | Full-Stack Explorer**
 
-Here are some ideas to get you started:
+Passionate about crafting seamless, user-first web experiences using modern tools like React, Tailwind CSS, and Next.js. I bring ideas to life with clean, scalable code and a sharp eye for UI/UX.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+With hands-on experience building full-stack projects using MongoDB, Express.js, and Node.js, I enjoy diving into both the design and the logic that power great applications.
+
+Whether it's building dynamic interfaces, integrating APIs, optimizing performance, or solving complex bugs — I love the challenge of turning problems into elegant solutions.
+
+---
+
+### 🔧 Tech I Work With:
+
+| Frontend            | Backend           | Tools & Others      |
+|---------------------|-------------------|---------------------|
+| ![React](https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/react.svg) React | ![Node.js](https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/node-dot-js.svg) Node.js | ![Git](https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/git.svg) Git |
+| ![Next.js](https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/next-dot-js.svg) Next.js | ![Express](https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/express.svg) Express | ![REST API](https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/rest.svg) REST APIs |
+| ![Tailwind CSS](https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/tailwindcss.svg) Tailwind CSS | ![MongoDB](https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/mongodb.svg) MongoDB |                      |
+
+---
+
+### 🚀 What I’m Working On:
+
+- Scalable booking and delivery web apps  
+- Admin dashboards and rider assignment systems  
+- Search and filter functionality with React Query  
+
+---
+
+### 📚 Learning & Interests:
+- 🔭 Currently working on **Newstream** full-stack project  
+- 🌱 Learning **TypeScript**  
+- 💬 Ask me about JavaScript, React, Node.js, MongoDB  
+
+---
+
+### 📫 Connect with me:
+
+[![Gmail](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:taniatripty381@gmail.com)  
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/taniatripty)  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tania-tripty/)  
+[![Facebook](https://img.shields.io/badge/-Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/tania.tripty.5)  
+
+---
+
+<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> 
+<a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> 
+<a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> 
+<a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> 
+<a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=taniatripty)](https://github.com/ryo-ma/github-profile-trophy)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=taniatripty&layout=compact)](https://github.com/anuraghazra/github-readme-stats)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=taniatripty&show_icons=true&count_private=true)  
+![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/taniatripty/contributions?format=svg&private=true)  
+![GitHub streak stats](https://streak-stats.demolab.com/?user=taniatripty)  
 
