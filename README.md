@@ -65,7 +65,7 @@ Whether it's building dynamic interfaces, integrating APIs, optimizing performan
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=taniatripty)](https://github.com/ryo-ma/github-profile-trophy)  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=taniatripty&layout=compact)](https://github.com/anuraghazra/github-readme-stats)  
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=taniatripty&show_icons=true&count_private=true)  
+
 ![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/taniatripty/contributions?format=svg&private=true)  
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=taniatripty)  
 
