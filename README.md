@@ -1,5 +1,5 @@
 
-![From Frontend Polish to Backend Power](https://media.licdn.com/dms/image/v2/D4D16AQGzuvXJiHVf3w/profile-displaybackgroundimage-shrink_350_1400/B4DZiGqRUTHsAY-/0/1754605886203?e=1757548800&v=beta&t=g-PbNp3e6CmqKpc7cWC5uvJ3vKV1mrt6sASSUS1OniI)
+![From Frontend Polish to Backend Power](https://media.licdn.com/dms/image/v2/D4D16AQH7cZRDlbYO5g/profile-displaybackgroundimage-shrink_350_1400/B4DZjJHaYFGQAY-/0/1755720822587?e=1758758400&v=beta&t=jyYdN3HFKhMIGVKczM_eIpUXoCXLOMo1lMio4EyvLDE)
 ### Hi there 👋, I’m Tripty  
 #### From Frontend Polish to Backend Power
 
